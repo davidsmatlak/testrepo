@@ -1,4 +1,4 @@
 # testrepo
 My test repository
 
-Add text and commit the file.
+Add content to _README.md_ and commit the change.
